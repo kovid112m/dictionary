@@ -7,7 +7,6 @@ public class DictionaryV1 {
     private final static String user = "root";
     private final static String pass = "switchiton";
     public static void main(String[] args){
-        //Main m = new Main();
         Scanner s = new Scanner(System.in);
         Connection c;
 	try {
