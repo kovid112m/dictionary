@@ -4,8 +4,8 @@ import java.util.*;
 
 public class DictionaryV1 {
     private final static String url = "jdbc:mysql://localhost:3306/entries";
-    private final static String user = "root";
-    private final static String pass = "switchiton";
+    private final static String user = "username";
+    private final static String pass = "password";
     public static void main(String[] args){
         Scanner s = new Scanner(System.in);
         Connection c;
